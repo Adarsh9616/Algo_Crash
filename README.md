@@ -3,5 +3,5 @@ This repository is gonna contain some problems related to different algorithms.
 This repository is basically going to contain general problems that appear in coding interviews.
 
 ## Topics Covered
-# 1-> Recursion
-# 2-> Backtracking
+### 1-> Recursion
+### 2-> Backtracking
